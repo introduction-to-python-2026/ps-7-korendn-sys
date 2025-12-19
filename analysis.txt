@@ -1,1 +1,6 @@
+I used the Iris dataset from sklearn.
+I analyzed the correlation between sepal length and petal length.
+
+The scatter plot shows a strong positive correlation:
+when sepal length increases, petal length also increases.
 
